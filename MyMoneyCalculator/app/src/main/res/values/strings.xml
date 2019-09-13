@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Money Calculator</string>
+    <string name="plus50">+50</string>
+    <string name="plus100">+100</string>
+    <string name="plus200">+200</string>
+    <string name="minus50">-50</string>
+    <string name="minus100">-100</string>
+    <string name="minus200">-200</string>
+</resources>
