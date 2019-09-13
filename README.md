@@ -1,2 +1,2 @@
 # MyMoneyCalculator
-Money Calculator
+Calculate money with salary included
